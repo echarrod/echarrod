@@ -3,7 +3,7 @@
 Find me on:
 - [Twitter](https://twitter.com/e_harrod)
 - [LinkedIn](https://www.linkedin.com/in/edward-harrod)
-- [Stack Overflow](https://stackoverflow.com/users/story/1014632)
+- [Stack Overflow](https://stackoverflow.com/users/1014632/ech?tab=profile)
 
 :point_down: You're viewing my lastest tweet deployed with [GitHub actions](https://github.com/echarrod/echarrod).  
 - 
