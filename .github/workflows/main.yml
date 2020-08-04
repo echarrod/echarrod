@@ -29,5 +29,6 @@ jobs:
       - name: Commit results
         uses: stefanzweifel/git-auto-commit-action@v4.4.0
         with:
+          branch: master
           commit_message: "Update the latest tweet"
           
