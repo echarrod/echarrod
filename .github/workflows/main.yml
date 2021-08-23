@@ -14,6 +14,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - name: Install Package Dependencies
         run: |-
+          options(download.file.method = "libcurl")
           Rscript -e "install.packages('remotes')"
           Rscript -e "remotes::install_github('gadenbuie/tweetrmd@main')"
           Rscript -e "remotes::install_github('rstudio/webshot2')"
