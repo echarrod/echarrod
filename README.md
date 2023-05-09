@@ -3,8 +3,6 @@
 
 <br />
 
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/e_harrod"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=e_harrod&amp;layout=wide&amp;show_reply=off" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
