@@ -6,7 +6,7 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=echarrod.echarrod)
+![](https://komarev.com/ghpvc/?username=echarrod)
 
 <p>
 <a href="https://stackoverflow.com/users/1014632/ech" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
