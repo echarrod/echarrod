@@ -7,38 +7,17 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2040%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
-> 📦 102.4 kB Used in GitHub's Storage 
- > 
-> 🏆 955 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                8766 commits        █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌆 Daytime                13697 commits       ███████████████░░░░░░░░░░   58.01 % 
+🌆 Daytime                13698 commits       ███████████████░░░░░░░░░░   58.01 % 
 🌃 Evening                817 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 🌙 Night                  333 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   7582 commits        ████████░░░░░░░░░░░░░░░░░   32.11 % 
-Tuesday                  1946 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Wednesday                8169 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
-Thursday                 2883 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   1852 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Saturday                 506 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sunday                   675 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -60,24 +39,12 @@ Sublime Text             42 mins             █░░░░░░░░░░�
 Notion                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
-**I Mostly Code in Go** 
-
-```text
-Go                       34 repos            ███████████████░░░░░░░░░░   58.62 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2024 11:44:50 UTC
+ Last Updated on 14/12/2024 12:17:50 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
