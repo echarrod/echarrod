@@ -7,16 +7,14 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2040%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8766 commits        █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌆 Daytime                13698 commits       ███████████████░░░░░░░░░░   58.01 % 
-🌃 Evening                817 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+🌞 Morning                8768 commits        █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌆 Daytime                13714 commits       ███████████████░░░░░░░░░░   58.02 % 
+🌃 Evening                822 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 🌙 Night                  333 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
@@ -44,7 +42,7 @@ Notion                   38 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2024 12:17:50 UTC
+ Last Updated on 15/12/2024 00:23:25 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
