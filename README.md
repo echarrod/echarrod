@@ -25,12 +25,10 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       4 mins              █████████████████░░░░░░░░   66.15 % 
-Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   99.47 % 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Sublime Text             0 secs              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -38,7 +36,7 @@ Sublime Text             0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 00:26:41 UTC
+ Last Updated on 16/06/2025 00:25:21 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
