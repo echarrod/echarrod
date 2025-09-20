@@ -9,34 +9,12 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5508 commits        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌆 Daytime                10446 commits       ████████████░░░░░░░░░░░░░   49.18 % 
-🌃 Evening                5071 commits        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-🌙 Night                  215 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Other                    6 hrs 55 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          6 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 00:32:24 UTC
+ Last Updated on 20/09/2025 00:29:06 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
