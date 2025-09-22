@@ -7,15 +7,15 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5509 commits        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-🌆 Daytime                10450 commits       ████████████░░░░░░░░░░░░░   49.07 % 
-🌃 Evening                5124 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌙 Night                  215 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+🌞 Morning                5278 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                10321 commits       ████████████░░░░░░░░░░░░░   49.31 % 
+🌃 Evening                5115 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+🌙 Night                  215 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
@@ -42,7 +42,7 @@ Sublime Text             3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 00:34:09 UTC
+ Last Updated on 22/09/2025 00:31:28 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
