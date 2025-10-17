@@ -7,14 +7,43 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7671 commits        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌆 Daytime                16167 commits       ████████████░░░░░░░░░░░░░   49.49 % 
+🌃 Evening                8621 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+🌙 Night                  211 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Other                    11 hrs 42 mins      █████████████████░░░░░░░░   66.91 % 
+Go                       2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JSON5                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+🔥 Editors: 
+Google Calendar          11 hrs 24 mins      ████████████████░░░░░░░░░   65.13 % 
+VS Code                  5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+Sublime Text             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Notion                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 00:34:57 UTC
+ Last Updated on 17/10/2025 00:34:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
