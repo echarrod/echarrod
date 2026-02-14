@@ -4,7 +4,11 @@
 <br />
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=echarrod&amp;show_icons=true" alt="GitHub Stats"></p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echarrod&theme=default" alt="GitHub Profile Details">
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=echarrod&theme=default" alt="GitHub Stats">
+</p>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.45%20million%20lines%20of%20code-blue?style=flat)
