@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Ed. I'm a backend software engineer with a passion for Blockchain, AI, Open Source, Diversity & Inclusion.
+ I'm Ed. I'm a backend software engineer and founder with a passion for Blockchain, AI, Open Source, Diversity & Inclusion.
 
 <br />
 
