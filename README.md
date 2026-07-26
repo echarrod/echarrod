@@ -13,12 +13,39 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.13%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14884 commits       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌆 Daytime                32616 commits       █████████████░░░░░░░░░░░░   50.93 % 
+🌃 Evening                16196 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌙 Night                  349 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+TypeScript               12 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.28 % 
+Markdown                 9 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Go                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Swift                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+
+🔥 Editors: 
+Claude Code              29 hrs 17 mins      ██████████████████████░░░   89.31 % 
+VS Code                  3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:43:02 UTC
+ Last Updated on 26/07/2026 02:47:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
