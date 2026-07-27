@@ -16,9 +16,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14884 commits       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-🌆 Daytime                32616 commits       █████████████░░░░░░░░░░░░   50.93 % 
-🌃 Evening                16196 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌞 Morning                14886 commits       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌆 Daytime                32618 commits       █████████████░░░░░░░░░░░░   50.93 % 
+🌃 Evening                16187 commits       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
 🌙 Night                  349 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
@@ -29,15 +29,15 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               12 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.28 % 
-Markdown                 9 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Go                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Swift                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               11 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.12 % 
+Markdown                 8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Go                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+JavaScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Swift                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 17 mins      ██████████████████████░░░   89.31 % 
-VS Code                  3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Claude Code              27 hrs 43 mins      ██████████████████████░░░   88.78 % 
+VS Code                  3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 ```
 
 **Timeline**
@@ -45,7 +45,7 @@ VS Code                  3 hrs 30 mins       ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 02:47:52 UTC
+ Last Updated on 27/07/2026 02:58:03 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
