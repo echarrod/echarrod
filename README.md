@@ -11,15 +11,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.80%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-543%20hrs%2026%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15294 commits       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-🌆 Daytime                33620 commits       █████████████░░░░░░░░░░░░   50.97 % 
-🌃 Evening                16693 commits       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌙 Night                  350 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                15234 commits       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌆 Daytime                33436 commits       █████████████░░░░░░░░░░░░   50.93 % 
+🌃 Evening                16627 commits       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌙 Night                  349 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 
@@ -29,41 +31,41 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
-Markdown                 6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Swift                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Go                       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TypeScript               7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Markdown                 5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Kotlin                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Swift                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 31 mins      ██████████████████████░░░   86.38 % 
-VS Code                  3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Claude Code              21 hrs 13 mins      ██████████████████████░░░   88.54 % 
+VS Code                  2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 47 mins (99.54%)
+⏱ AI Coding Time: 23 hrs 50 mins (99.51%)
 
-✍️ 29,045 lines written by AI, 76 lines written by hand (99.74% AI-written)
+✍️ 21,240 lines written by AI, 74 lines written by hand (99.65% AI-written)
 
-🔤 1,805,293,123 Input Tokens, 4,927,527 Output Tokens
+🔤 1,490,259,475 Input Tokens, 3,991,945 Output Tokens
 
-💵 $8773.51 Estimated AI Cost This Week
+💵 $7184.30 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 478 AI Prompts
+🧠 114 AI Sessions, 418 AI Prompts
 
-Opus                     26,731 lines        ██████████████████████░░░   88.08 % 
-Sonnet                   1,633 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Fable                    1,418 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-K                        567 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Opus                     19,807 lines        ██████████████████████░░░   88.70 % 
+Fable                    1,418 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Sonnet                   865 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+K                        241 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 1,644 characters per prompt
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 2,003 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -71,7 +73,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:41:28 UTC
+ Last Updated on 30/07/2026 02:30:41 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
