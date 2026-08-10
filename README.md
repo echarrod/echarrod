@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-581%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.97%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15436 commits       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-🌆 Daytime                33735 commits       █████████████░░░░░░░░░░░░   50.95 % 
-🌃 Evening                16672 commits       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+🌞 Morning                15449 commits       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌆 Daytime                33763 commits       █████████████░░░░░░░░░░░░   50.96 % 
+🌃 Evening                16678 commits       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
 🌙 Night                  363 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
@@ -31,39 +31,39 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-TypeScript               7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Go                       3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-YAML                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Markdown                 7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+TypeScript               6 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Go                       3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 4 mins       ████████████████████░░░░░   78.33 % 
-VS Code                  5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Claude Code              20 hrs 15 mins      ███████████████████░░░░░░   77.77 % 
+VS Code                  5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 47 mins (99.54%)
+⏱ AI Coding Time: 25 hrs 56 mins (99.53%)
 
-✍️ 44,384 lines written by AI, 9 lines written by hand (99.98% AI-written)
+✍️ 42,034 lines written by AI, 9 lines written by hand (99.98% AI-written)
 
-🔤 2,654,974,474 Input Tokens, 6,536,021 Output Tokens
+🔤 2,574,284,187 Input Tokens, 6,372,052 Output Tokens
 
-💵 $12079.52 Estimated AI Cost This Week
+💵 $11674.89 Estimated AI Cost This Week
 
-🧠 177 AI Sessions, 713 AI Prompts
+🧠 174 AI Sessions, 703 AI Prompts
 
-Opus                     34,410 lines        ███████████████████░░░░░░   76.24 % 
-Sonnet                   8,022 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-K                        2,603 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Gemini                   95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Opus                     32,032 lines        ███████████████████░░░░░░   74.91 % 
+Sonnet                   8,022 lines         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+K                        2,603 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Gemini                   95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Haiku                    6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,658 characters per prompt
+📚 Verbose Prompter — average 1,651 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
@@ -73,7 +73,7 @@ Haiku                    6 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 01:44:33 UTC
+ Last Updated on 10/08/2026 01:47:39 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
