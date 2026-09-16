@@ -11,17 +11,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-689%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-693%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.38%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23157 commits       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌆 Daytime                49028 commits       █████████████░░░░░░░░░░░░   51.04 % 
-🌃 Evening                23245 commits       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌙 Night                  619 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+🌞 Morning                22926 commits       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌆 Daytime                48518 commits       █████████████░░░░░░░░░░░░   50.98 % 
+🌃 Evening                23121 commits       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌙 Night                  598 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
@@ -31,37 +31,39 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 1 hr 49 mins        ████████████████████████░   95.70 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Markdown                 4 hrs 3 mins        █████████████████░░░░░░░░   69.16 % 
+Bash                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-Claude Code              1 hr 53 mins        █████████████████████████   99.28 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Claude Code              5 hrs 46 mins       █████████████████████████   98.37 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (99.95%)
+⏱ AI Coding Time: 5 hrs 52 mins (99.98%)
 
-✍️ 122 lines written by AI, 3 lines written by hand (97.6% AI-written)
+✍️ 926 lines written by AI, 3 lines written by hand (99.68% AI-written)
 
-🔤 5,103,348 Input Tokens, 185,668 Output Tokens
+🔤 9,682,016 Input Tokens, 506,959 Output Tokens
 
-💵 $76.51 Estimated AI Cost This Week
+💵 $164.60 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 22 AI Prompts
+🧠 44 AI Sessions, 95 AI Prompts
 
-Opus                     122 lines           █████████████████████████   100.00 % 
+Opus                     899 lines           ████████████████████████░   97.08 % 
+Sonnet                   27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.6% of written lines came from AI
-📚 Verbose Prompter — average 2,159 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📚 Verbose Prompter — average 1,982 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.4% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -69,7 +71,7 @@ Opus                     122 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 04:06:56 UTC
+ Last Updated on 16/09/2026 04:13:16 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
