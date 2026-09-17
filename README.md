@@ -11,17 +11,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-693%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-695%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22926 commits       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌆 Daytime                48518 commits       █████████████░░░░░░░░░░░░   50.98 % 
-🌃 Evening                23121 commits       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌙 Night                  598 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+🌞 Morning                24264 commits       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+🌆 Daytime                51078 commits       █████████████░░░░░░░░░░░░   50.87 % 
+🌃 Evening                24356 commits       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌙 Night                  712 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 
@@ -31,39 +31,40 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 hrs 3 mins        █████████████████░░░░░░░░   69.16 % 
-Bash                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 19 hrs 27 mins      ██████████████████░░░░░░░   70.97 % 
+Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Python                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TypeScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 46 mins       █████████████████████████   98.37 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Claude Code              26 hrs 54 mins      █████████████████████████   98.16 % 
+VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 52 mins (99.98%)
+⏱ AI Coding Time: 27 hrs 24 mins (100.0%)
 
-✍️ 926 lines written by AI, 3 lines written by hand (99.68% AI-written)
+✍️ 5,420 lines written by AI, 3 lines written by hand (99.94% AI-written)
 
-🔤 9,682,016 Input Tokens, 506,959 Output Tokens
+🔤 34,608,750 Input Tokens, 3,881,841 Output Tokens
 
-💵 $164.60 Estimated AI Cost This Week
+💵 $1060.70 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 95 AI Prompts
+🧠 147 AI Sessions, 300 AI Prompts
 
-Opus                     899 lines           ████████████████████████░   97.08 % 
-Sonnet                   27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Opus                     5,271 lines         ████████████████████████░   96.57 % 
+Fable                    137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sonnet                   50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 1,982 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,982 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -71,7 +72,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 04:13:16 UTC
+ Last Updated on 17/09/2026 04:16:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
