@@ -11,17 +11,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-708%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-713%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22857 commits       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-🌆 Daytime                47524 commits       █████████████░░░░░░░░░░░░   50.78 % 
-🌃 Evening                22481 commits       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-🌙 Night                  721 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+🌞 Morning                22989 commits       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+🌆 Daytime                47911 commits       █████████████░░░░░░░░░░░░   50.86 % 
+🌃 Evening                22593 commits       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌙 Night                  712 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
@@ -31,42 +31,42 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 11 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.44 % 
-TypeScript               4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Other                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JavaScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Bash                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Markdown                 10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.05 % 
+TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Other                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Bash                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 52 mins      ████████████████████████░   94.83 % 
-VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Claude Code              22 hrs 53 mins      ███████████████████████░░   93.20 % 
+VS Code                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 9 mins (99.95%)
+⏱ AI Coding Time: 24 hrs 8 mins (98.3%)
 
-✍️ 11,012 lines written by AI, 5 lines written by hand (99.95% AI-written)
+✍️ 12,439 lines written by AI, 5 lines written by hand (99.96% AI-written)
 
-🔤 35,947,026 Input Tokens, 3,504,836 Output Tokens
+🔤 29,595,718 Input Tokens, 3,385,481 Output Tokens
 
-💵 $966.88 Estimated AI Cost This Week
+💵 $858.59 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 649 AI Prompts
+🧠 113 AI Sessions, 549 AI Prompts
 
-Opus                     9,092 lines         ████████████████████░░░░░   78.50 % 
-Fable                    1,251 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Sonnet                   737 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-GPT                      502 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Opus                     9,392 lines         ██████████████████░░░░░░░   72.22 % 
+Sonnet                   1,860 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Fable                    1,251 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+GPT                      502 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,980 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 6,820 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -74,7 +74,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 04:04:55 UTC
+ Last Updated on 23/09/2026 04:09:34 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
