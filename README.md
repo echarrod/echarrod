@@ -11,71 +11,14 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-885%20hrs%2014%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.37%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                41163 commits       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌆 Daytime                86737 commits       █████████████░░░░░░░░░░░░   52.13 % 
-🌃 Evening                36378 commits       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-🌙 Night                  2105 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Markdown                 6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Other                    6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-TypeScript               2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Go                       2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-
-🔥 Editors: 
-Claude Code              19 hrs 17 mins      ████████████████████████░   95.24 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Codex Vscode             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 hrs 10 mins (99.59%)
-
-✍️ 14,706 lines written by AI, 4 lines written by hand (99.97% AI-written)
-
-🔤 30,284,706 Input Tokens, 4,055,377 Output Tokens
-
-💵 $908.24 Estimated AI Cost This Week
-
-🧠 177 AI Sessions, 510 AI Prompts
-
-Opus                     12,560 lines        █████████████████░░░░░░░░   69.02 % 
-Fable                    3,294 lines         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Sonnet                   2,212 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-GPT                      97 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-DeepSeek                 35 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,128 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.76%20million%20lines%20of%20code-blue?style=flat)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 05:18:13 UTC
+ Last Updated on 03/11/2026 11:02:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
