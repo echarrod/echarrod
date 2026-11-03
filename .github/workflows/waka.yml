@@ -10,6 +10,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
       - uses: anmol098/waka-readme-stats@master
         continue-on-error: false
