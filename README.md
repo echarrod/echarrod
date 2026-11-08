@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-891%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.98%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41381 commits       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-🌆 Daytime                87745 commits       █████████████░░░░░░░░░░░░   52.28 % 
-🌃 Evening                36589 commits       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌞 Morning                41354 commits       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌆 Daytime                87653 commits       █████████████░░░░░░░░░░░░   52.27 % 
+🌃 Evening                36586 commits       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
 🌙 Night                  2113 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
@@ -31,40 +31,40 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.02 % 
-Markdown                 3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-TypeScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Markdown                 2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.52 % 
+Other                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Go                       33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 39 mins      █████████████████████████   98.84 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Claude Code              6 hrs 5 mins        █████████████████████████   99.31 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 43 mins (99.45%)
+⏱ AI Coding Time: 6 hrs 8 mins (99.98%)
 
-✍️ 16,423 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 13,874 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,714,462 Input Tokens, 1,736,797 Output Tokens
+🔤 7,866,859 Input Tokens, 1,353,769 Output Tokens
 
-💵 $148.30 Estimated AI Cost This Week
+💵 $117.90 Estimated AI Cost This Week
 
-🧠 97 AI Sessions, 210 AI Prompts
+🧠 57 AI Sessions, 118 AI Prompts
 
-Opus                     16,487 lines        ████████████████████████░   97.02 % 
-Sonnet                   507 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Opus                     14,342 lines        ████████████████████████░   96.66 % 
+Sonnet                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,062 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,224 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -72,7 +72,7 @@ Fable                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 05:55:05 UTC
+ Last Updated on 08/11/2026 05:38:09 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
