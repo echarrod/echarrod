@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-891%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41429 commits       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-🌆 Daytime                87822 commits       █████████████░░░░░░░░░░░░   52.27 % 
-🌃 Evening                36639 commits       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-🌙 Night                  2120 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+🌞 Morning                42620 commits       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌆 Daytime                90362 commits       █████████████░░░░░░░░░░░░   52.33 % 
+🌃 Evening                37491 commits       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+🌙 Night                  2192 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
@@ -31,38 +31,38 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.52 % 
-Other                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Go                       33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.50 % 
+TypeScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Go                       33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 5 mins        █████████████████████████   99.31 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Claude Code              3 hrs 24 mins       █████████████████████████   98.78 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 8 mins (99.98%)
+⏱ AI Coding Time: 3 hrs 27 mins (99.97%)
 
-✍️ 13,874 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,684 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,866,859 Input Tokens, 1,353,769 Output Tokens
+🔤 4,260,016 Input Tokens, 837,224 Output Tokens
 
-💵 $117.90 Estimated AI Cost This Week
+💵 $84.59 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 118 AI Prompts
+🧠 27 AI Sessions, 61 AI Prompts
 
-Opus                     14,342 lines        ████████████████████████░   96.66 % 
-Sonnet                   496 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     11,874 lines        ████████████████████████░   96.76 % 
+Sonnet                   398 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,224 characters per prompt
+📚 Verbose Prompter — average 4,017 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -72,7 +72,7 @@ Fable                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/echarrod/echarrod/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2026 03:17:27 UTC
+ Last Updated on 10/11/2026 05:39:06 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
