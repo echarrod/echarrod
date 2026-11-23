@@ -27,3 +27,6 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: False
           SHOW_LANGUAGE_PER_REPO: False
+          # Stale upstream forks: 919 of ~2,500 branches the LOC scan walks, almost none Ed's
+          IGNORED_REPOS: paperclip,gemini-cli
+          DEBUG_LOGGING: True
