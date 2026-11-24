@@ -24,9 +24,12 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_SHORT_INFO: False
           SHOW_DAYS_OF_WEEK: False
-          SHOW_LINES_OF_CODE: True
+          # LOC + commit-time stats rescan every branch of every repo (>3h); off until
+          # upstream can scan default branches only: anmol098/waka-readme-stats#702
+          SHOW_LINES_OF_CODE: False
+          SHOW_LOC_CHART: False
+          SHOW_COMMIT: False
           SHOW_TOTAL_CODE_TIME: False
           SHOW_LANGUAGE_PER_REPO: False
           # Stale upstream forks: 919 of ~2,500 branches the LOC scan walks, almost none Ed's
           IGNORED_REPOS: paperclip,gemini-cli
-          DEBUG_LOGGING: True
