@@ -19,43 +19,43 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-TypeScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Other                    3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Text                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Markdown                 3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+TypeScript               2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Other                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 25 mins      █████████████████████████   99.38 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Claude Code              10 hrs 45 mins      █████████████████████████   99.06 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 31 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 52 mins (100.0%)
 
-✍️ 18,202 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 15,736 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 24,987,608 Input Tokens, 3,416,971 Output Tokens
+🔤 18,591,016 Input Tokens, 2,698,662 Output Tokens
 
-💵 $444.40 Estimated AI Cost This Week
+💵 $350.98 Estimated AI Cost This Week
 
-🧠 176 AI Sessions, 369 AI Prompts
+🧠 108 AI Sessions, 253 AI Prompts
 
-Opus                     17,662 lines        ████████████████████████░   94.06 % 
-Sonnet                   1,115 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Opus                     15,187 lines        ███████████████████████░░   93.16 % 
+Sonnet                   1,115 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 4,221 characters per prompt
+📚 Verbose Prompter — average 4,363 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/11/2026 08:44:10 UTC
+ Last Updated on 25/11/2026 04:58:10 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=echarrod)
